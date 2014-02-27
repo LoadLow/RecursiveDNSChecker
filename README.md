@@ -9,3 +9,7 @@ This project check 10 000 addresses per thread in parallel.
 - Wait...
 - Open recursive DNS found will be saved on "addresses.list.CHECKED"
 - Enjoy :)
+
+
+<h4>Note :</h4>
+In the "bonus" folder, you will find a list of 170,000 IPV4 Addresses where DNS Recursion is enabled ;)
